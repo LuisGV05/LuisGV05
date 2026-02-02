@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hey, I'm Luis 👋
 
-<!--
-**LuisGV05/LuisGV05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student at Northeastern Illinois University  
+Right now I'm taking CS 335: Artificial Intelligence (Spring 2026).
 
-Here are some ideas to get you started:
+### What I'm about
+- I did a software development internship last summer at IIT Corporation  
+- I mostly worked with Python, Java, and SQL there  
+- Loved building stuff that actually gets used
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stuff I know / use
+- Python 🐍  
+- Java ☕  
+- SQL / MySQL 📊  
+- Git & GitHub  
+- A little bit of Tkinter, NumPy, Matplotlib from school projects  
+- Getting into AI/ML stuff now (Hugging Face, Colab, that kind of thing)
+
+
+### Let's connect
+- LinkedIn: [www.linkedin.com/in/luis-manuel-garcia-vasquez-9b6846208 ]  
+- Email: [lmgarciavasq@gmail.com]  
+
+
+Still early in my CS journey but I'm really into it — especially anything with databases, backend, or now AI.  
+
+Thanks for stopping by! 🚀
